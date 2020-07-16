@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icons/close.svg</file>
+        <file>Icons/full_screen.svg</file>
+        <file>Icons/next.svg</file>
+        <file>Icons/play.svg</file>
+        <file>Icons/previous.svg</file>
+        <file>Icons/setting.svg</file>
+        <file>Icons/sound.svg</file>
+        <file>Icons/max.svg</file>
+        <file>Icons/min.svg</file>
+        <file>Icons/min_streth.svg</file>
+        <file>Icons/full_hover.svg</file>
+        <file>Icons/next_hover.svg</file>
+        <file>Icons/pause.svg</file>
+        <file>Icons/pause_hover.svg</file>
+        <file>Icons/previous_hover.svg</file>
+        <file>Icons/setting_hover.svg</file>
+        <file>Icons/sound_hover.svg</file>
+        <file>Icons/play_hover.svg</file>
+        <file>Icons/radius_back.png</file>
+        <file>Icons/radius_front.png</file>
+        <file>common/qss/sliderHStyle.qss</file>
+        <file>common/qss/sliderVStyle.qss</file>
+        <file>Icons/checkBox.png</file>
+        <file>Icons/checkBox_focus.png</file>
+    </qresource>
+</RCC>
